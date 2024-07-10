@@ -77,9 +77,24 @@ Maven es una herramienta de gestión y construcción de proyectos Java. Su objet
         - Pasos para iniciar un nuevo proyecto desde cero
         - Estructura de un proyecto MAVEN y mejores prácticas
         - Ejemplos de comandos útiles para la gestión de proyectos
+
+# Frameworks HIBERNATE
+Hibernate es una de las implementaciones más populares de mapeo relacional de objetos (ORM). En términos sencillos, mapea las relaciones entre objetos de software y registros de la base de datos. Aunque tiene una funcionalidad amplia, nos centraremos en las funciones más básicas.
+
+Nuestro objetivo es crear una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) que pueda:
+
+Crear usuarios (Usuario), buscarlos por ID, actualizar sus datos y eliminarlos.
+Asignar objetos de coche (Auto) a los usuarios.
+Crear, actualizar, buscar y eliminar automóviles de la base de datos.
+En resumen, Hibernate simplifica la interacción entre objetos Java y bases de datos.
 - **Hibernate**
     - Fundamentos de Hibernate
+        - Introducción a los conceptos básicos y la arquitectura de Hibernate
     - Configuración de Hibernate
+        - Cómo configurar Hibernate en diferentes entornos de desarrollo
     - Mapeo de entidades
-        - Anotaciones y XML
+        - Uso de anotaciones y XML para mapear clases Java a tablas de base de datos
+        - Discusión sobre las ventajas y desventajas de ambos métodos de mapeo
     - Sesiones y transacciones
+        - Manejo de la apertura y cierre de sesiones
+        - Gestión de transacciones y cómo asegurar la integridad de los datos
