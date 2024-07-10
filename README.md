@@ -28,7 +28,8 @@
     - Streams y Lambdas
 
 # Frameworks de Spring
-<a href="https://ibb.co/YbbYK4m"><img src="https://i.ibb.co/LvvbqDm/9954240.jpg" alt="9954240" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>mi mix 2 png</a><br />
+<a href="https://ibb.co/YbbYK4m"><img src="https://i.ibb.co/LvvbqDm/9954240.jpg" alt="9954240" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
+
 **SpringBoot**: Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
 
     - Introducción a SpringBoot
