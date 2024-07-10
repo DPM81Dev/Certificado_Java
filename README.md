@@ -1,13 +1,15 @@
 
-# IFCD0112 PROGRAMACIÓN CON LENGUAJES ORIENTADOS A OBJETOS Y BASES DE DATOS RELACIONALES
+## IFCD0112 PROGRAMACIÓN CON LENGUAJES ORIENTADOS A OBJETOS Y BASES DE DATOS RELACIONALES
 <img title="Certificado JAVA" alt="Certificado JAVA" src="https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/05/Difference-Between-List.of-and-Arrays.asList.png">
 
-**Especificaciones**:
-    - **Certificacion**: Grado 3
+
+#**Especificaciones de la Certificacion**:
+
+    - **Certificacion tipo**: Grado 3
     - **Horas**: 710 H + 80 de Practicas
     - **Docente**: Jose Luis Llorente
     
-# Conocimientos de JAVA y SpringBoot
+# Conocimientos de JAVA
 
 - **JAVA**
     - Fundamentos de JAVA
