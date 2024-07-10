@@ -141,7 +141,8 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
         - CREATE, ALTER, DROP
     - Control de Transacciones
         - COMMIT, ROLLBACK, SAVEPOINT
-- **Diseño de Base de Datos**
+        
+    Diseño de Base de Datos
     - Normalización
         - Formas Normales (1NF, 2NF, 3NF, BCNF, etc.)
         - Desnormalización
@@ -151,24 +152,28 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
     - Diseño Lógico
         - Modelado ER (Entidad-Relación)
         - Diagramas ER
-- **Administración de Bases de Datos**
+        
+    Administración de Bases de Datos
     - Gestión de Usuarios y Permisos
     - Backup y Recuperación
     - Monitoreo y Optimización del Rendimiento
     - Seguridad de la Base de Datos
-- **Bases de Datos Distribuidas**
+
+    Bases de Datos Distribuidas
     - Conceptos y Arquitectura
     - Replicación de Datos
     - Fragmentación y Distribución de Datos
     - Consistencia y Disponibilidad
-- **Tecnologías y Herramientas Relacionadas**
+
+    Tecnologías y Herramientas Relacionadas
     - Sistemas de Gestión de Bases de Datos (SGBD)
         - MySQL, PostgreSQL, Oracle, SQL Server
     - Herramientas de Administración
         - phpMyAdmin, pgAdmin, Oracle SQL Developer
     - Frameworks y Bibliotecas
         - JDBC, Hibernate, JPA
-- **Tendencias Actuales y Futuras**
+
+    Tendencias Actuales y Futuras
     - Bases de Datos en la Nube
     - Bases de Datos NoSQL vs. SQL
     - Big Data y su Integración con Bases de Datos Relacionales
