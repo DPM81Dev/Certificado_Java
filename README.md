@@ -20,8 +20,8 @@
     - Streams y Lambdas
 
 # Frameworks SpringBoot
-Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
-- **SpringBoot**
+**SpringBoot**: Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
+
     - Introducción a SpringBoot
         - Configuración inicial
         - Estructura del proyecto
@@ -35,23 +35,28 @@ Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el ac
         - Unit Testing
         - Integration Testing
   
-  **SpringBoot MVC**
-  Spring Web MVC es un marco de trabajo diseñado alrededor de un DispatcherServlet que dirige las solicitudes a controladores. Ofrece soporte para mapeo de controladores, resolución de vistas, internacionalización, temas y carga de archivos.
+**SpringBoot MVC**: Es un marco de trabajo diseñado alrededor de un DispatcherServlet que dirige las solicitudes a controladores. Ofrece soporte para mapeo de controladores, resolución de vistas, internacionalización, temas y carga de archivos.
 Permite crear sitios y aplicaciones web RESTful utilizando anotaciones como @Controller y @RequestMapping.
+
     - Fundamentos de Spring MVC
     - Controladores y Vistas
         - Controladores REST
         - Plantillas de vistas (Thymeleaf, Freemarker)
     - Manejo de formularios
     - Validación de datos
-- **SpringBoot Data**
+    
+**SpringBoot Data**: Spring Data proporciona un modelo de programación coherente para acceder a datos, ya sea en bases de datos relacionales o no relacionales, servicios basados en la nube o marcos de reducción de mapas.
+Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data Redis y otros, que simplifican la implementación de repositorios y consultas.
+  
     - Introducción a Spring Data JPA
     - Repositorios
         - CrudRepository
         - JpaRepository
     - Consultas personalizadas
     - Paginación y ordenación
-- **SpringBoot JPA**
+
+**SpringBoot JPA**: Es parte de la familia Spring Data y facilita la implementación de repositorios basados en JPA (Java Persistence API). Reduce la cantidad de código repetitivo necesario para ejecutar consultas y proporciona soporte para validación, auditoría y consultas dinámicas.
+
     - Fundamentos de JPA
     - Mapeo de entidades
         - Anotaciones (@Entity, @Table, @Id, etc.)
