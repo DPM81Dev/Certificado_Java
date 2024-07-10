@@ -28,7 +28,7 @@
     - Streams y Lambdas
 
 # Frameworks de Spring
-
+<img title="SpringBoot" alt="SpringBoot" src="https://wallpaperaccess.com/download/spring-boot-9954240">
 **SpringBoot**: Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
 
     - Introducción a SpringBoot
@@ -109,3 +109,64 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
     - Sesiones y transacciones
         - Manejo de la apertura y cierre de sesiones
         - Gestión de transacciones y cómo asegurar la integridad de los datos
+
+
+# Base de datos Relacionales
+<img="" alt="" src="https://www.baulphp.com/wp-content/uploads/2018/09/caracteristicas-de-mysql.jpg">
+
+- **Introducción a Bases de Datos Relacionales**
+    - Definición y Conceptos Básicos
+    - Historia y Evolución de las Bases de Datos Relacionales
+    - Comparación con otros tipos de Bases de Datos
+- **Modelo Relacional**
+    - Conceptos Fundamentales
+        - Tablas (Relaciones)
+        - Filas (Tuplas)
+        - Columnas (Atributos)
+    - Claves Primarias y Foráneas
+    - Integridad Referencial
+- **Lenguaje SQL**
+    - Introducción a SQL
+        - Historia y Versiones de SQL
+        - Sintaxis Básica
+    - Consultas Básicas
+        - SELECT, FROM, WHERE
+        - JOINs (INNER, LEFT, RIGHT, FULL)
+    - Manipulación de Datos
+        - INSERT, UPDATE, DELETE
+    - Definición de Datos
+        - CREATE, ALTER, DROP
+    - Control de Transacciones
+        - COMMIT, ROLLBACK, SAVEPOINT
+- **Diseño de Base de Datos**
+    - Normalización
+        - Formas Normales (1NF, 2NF, 3NF, BCNF, etc.)
+        - Desnormalización
+    - Diseño Físico
+        - Índices
+        - Particionamiento
+    - Diseño Lógico
+        - Modelado ER (Entidad-Relación)
+        - Diagramas ER
+- **Administración de Bases de Datos**
+    - Gestión de Usuarios y Permisos
+    - Backup y Recuperación
+    - Monitoreo y Optimización del Rendimiento
+    - Seguridad de la Base de Datos
+- **Bases de Datos Distribuidas**
+    - Conceptos y Arquitectura
+    - Replicación de Datos
+    - Fragmentación y Distribución de Datos
+    - Consistencia y Disponibilidad
+- **Tecnologías y Herramientas Relacionadas**
+    - Sistemas de Gestión de Bases de Datos (SGBD)
+        - MySQL, PostgreSQL, Oracle, SQL Server
+    - Herramientas de Administración
+        - phpMyAdmin, pgAdmin, Oracle SQL Developer
+    - Frameworks y Bibliotecas
+        - JDBC, Hibernate, JPA
+- **Tendencias Actuales y Futuras**
+    - Bases de Datos en la Nube
+    - Bases de Datos NoSQL vs. SQL
+    - Big Data y su Integración con Bases de Datos Relacionales
+    - Machine Learning y Bases de Datos Relacionales
