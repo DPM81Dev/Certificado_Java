@@ -112,7 +112,7 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
 
 
 # Base de datos Relacionales
-<img aling="center" title="" alt="" src="https://www.baulphp.com/wp-content/uploads/2018/09/caracteristicas-de-mysql.jpg">
+<img aling="center" title="" alt="" src="https://2017.fossasia.org/img/MysqlOracle.png">
 
     Introducción a Bases de Datos Relacionales
     - Definición y Conceptos Básicos
