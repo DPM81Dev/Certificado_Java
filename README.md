@@ -19,7 +19,7 @@
     - Colecciones de JAVA
     - Streams y Lambdas
 
-## Frameworks SpringBoot
+# Frameworks SpringBoot
 - **SpringBoot**
     - Introducción a SpringBoot
         - Configuración inicial
@@ -54,13 +54,29 @@
     - Relaciones entre entidades
         - @OneToMany, @ManyToOne, @ManyToMany
     - Consultas con JPQL y Criteria API
+
+# Frameworks MAVEN
+
+Maven es una herramienta de gestión y construcción de proyectos Java. Su objetivo principal es simplificar los procesos de compilación y generación de ejecutables a partir del código fuente. Maven utiliza un modelo de objeto de proyecto (POM) para administrar la construcción, la generación de informes y la documentación de un proyecto desde una fuente central de información.
+
 - **MAVEN**
     - Introducción a MAVEN
+        - Definición y propósito de MAVEN en la gestión de proyectos
+        - Historia y evolución de MAVEN
     - POM.xml
         - Gestión de dependencias
+            - Cómo añadir y gestionar dependencias en un proyecto MAVEN
+            - Ejemplos de dependencias comunes y su configuración
         - Plugins de MAVEN
+            - Tipos de plugins y su utilidad en la automatización de tareas
+            - Instalación y configuración de plugins populares
     - Ciclo de vida de MAVEN
+        - Explicación detallada de las fases del ciclo de vida de MAVEN
+        - Cómo personalizar el ciclo de vida según las necesidades del proyecto
     - Creación de proyectos con MAVEN
+        - Pasos para iniciar un nuevo proyecto desde cero
+        - Estructura de un proyecto MAVEN y mejores prácticas
+        - Ejemplos de comandos útiles para la gestión de proyectos
 - **Hibernate**
     - Fundamentos de Hibernate
     - Configuración de Hibernate
