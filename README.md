@@ -28,7 +28,7 @@
     - Streams y Lambdas
 
 # Frameworks de Spring
-<img title="SpringBoot" alt="SpringBoot" src="https://wallpaperaccess.com/download/spring-boot-9954240">
+<img title="SpringBoot" alt="SpringBoot" src="https://wallpaperaccess.com/download/spring-boot-9954240.jpeg">
 **SpringBoot**: Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
 
     - Introducción a SpringBoot
@@ -112,7 +112,7 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
 
 
 # Base de datos Relacionales
-<img="" alt="" src="https://www.baulphp.com/wp-content/uploads/2018/09/caracteristicas-de-mysql.jpg">
+<img title="" alt="" src="https://www.baulphp.com/wp-content/uploads/2018/09/caracteristicas-de-mysql.jpg">
 
 - **Introducción a Bases de Datos Relacionales**
     - Definición y Conceptos Básicos
