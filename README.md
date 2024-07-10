@@ -59,21 +59,20 @@
 
 Maven es una herramienta de gestión y construcción de proyectos Java. Su objetivo principal es simplificar los procesos de compilación y generación de ejecutables a partir del código fuente. Maven utiliza un modelo de objeto de proyecto (POM) para administrar la construcción, la generación de informes y la documentación de un proyecto desde una fuente central de información.
 
-- **MAVEN**
-    - Introducción a MAVEN
+    - **Introducción a MAVEN**
         - Definición y propósito de MAVEN en la gestión de proyectos
         - Historia y evolución de MAVEN
-    - POM.xml
-        - Gestión de dependencias
+    - **POM.xml**
+        - **Gestión de dependencias**
             - Cómo añadir y gestionar dependencias en un proyecto MAVEN
             - Ejemplos de dependencias comunes y su configuración
-        - Plugins de MAVEN
+        - **Plugins de MAVEN**
             - Tipos de plugins y su utilidad en la automatización de tareas
             - Instalación y configuración de plugins populares
-    - Ciclo de vida de MAVEN
+    - **Ciclo de vida de MAVEN**
         - Explicación detallada de las fases del ciclo de vida de MAVEN
         - Cómo personalizar el ciclo de vida según las necesidades del proyecto
-    - Creación de proyectos con MAVEN
+    - **Creación de proyectos con MAVEN**
         - Pasos para iniciar un nuevo proyecto desde cero
         - Estructura de un proyecto MAVEN y mejores prácticas
         - Ejemplos de comandos útiles para la gestión de proyectos
@@ -81,7 +80,6 @@ Maven es una herramienta de gestión y construcción de proyectos Java. Su objet
 # Frameworks HIBERNATE
 Hibernate es una de las implementaciones más populares de mapeo relacional de objetos (ORM). En términos sencillos, mapea las relaciones entre objetos de software y registros de la base de datos.
 
-- **Hibernate**
     - **Fundamentos de Hibernate**
         - Introducción a los conceptos básicos y la arquitectura de Hibernate
     - **Configuración de Hibernate**
