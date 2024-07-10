@@ -20,6 +20,7 @@
     - Streams y Lambdas
 
 # Frameworks SpringBoot
+Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
 - **SpringBoot**
     - Introducción a SpringBoot
         - Configuración inicial
@@ -33,7 +34,10 @@
     - Pruebas con SpringBoot
         - Unit Testing
         - Integration Testing
-- **SpringBoot MVC**
+  
+  **SpringBoot MVC**
+  Spring Web MVC es un marco de trabajo diseñado alrededor de un DispatcherServlet que dirige las solicitudes a controladores. Ofrece soporte para mapeo de controladores, resolución de vistas, internacionalización, temas y carga de archivos.
+Permite crear sitios y aplicaciones web RESTful utilizando anotaciones como @Controller y @RequestMapping.
     - Fundamentos de Spring MVC
     - Controladores y Vistas
         - Controladores REST
