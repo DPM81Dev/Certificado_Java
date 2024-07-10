@@ -19,7 +19,8 @@
     - Colecciones de JAVA
     - Streams y Lambdas
 
-# Frameworks SpringBoot
+# Frameworks de Spring
+
 **SpringBoot**: Spring es un ecosistema versátil que abarca desde el desarrollo web hasta el acceso a datos, y sus frameworks asociados simplifican tareas comunes en el desarrollo de aplicaciones Java. 
 
     - Introducción a SpringBoot
@@ -66,36 +67,37 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
 
 # Frameworks MAVEN
 
-Maven es una herramienta de gestión y construcción de proyectos Java. Su objetivo principal es simplificar los procesos de compilación y generación de ejecutables a partir del código fuente. Maven utiliza un modelo de objeto de proyecto (POM) para administrar la construcción, la generación de informes y la documentación de un proyecto desde una fuente central de información.
+**Maven**: es una herramienta de gestión y construcción de proyectos Java. Su objetivo principal es simplificar los procesos de compilación y generación de ejecutables a partir del código fuente. Maven utiliza un modelo de objeto de proyecto (POM) para administrar la construcción, la generación de informes y la documentación de un proyecto desde una fuente central de información.
 
-    - **Introducción a MAVEN**
+    - Introducción a MAVEN
         - Definición y propósito de MAVEN en la gestión de proyectos
         - Historia y evolución de MAVEN
-    - **POM.xml**
+    - POM.xml
         - **Gestión de dependencias**
             - Cómo añadir y gestionar dependencias en un proyecto MAVEN
             - Ejemplos de dependencias comunes y su configuración
-        - **Plugins de MAVEN**
+        - Plugins de MAVEN
             - Tipos de plugins y su utilidad en la automatización de tareas
             - Instalación y configuración de plugins populares
-    - **Ciclo de vida de MAVEN**
+    - Ciclo de vida de MAVEN
         - Explicación detallada de las fases del ciclo de vida de MAVEN
         - Cómo personalizar el ciclo de vida según las necesidades del proyecto
-    - **Creación de proyectos con MAVEN**
+    - Creación de proyectos con MAVEN
         - Pasos para iniciar un nuevo proyecto desde cero
         - Estructura de un proyecto MAVEN y mejores prácticas
         - Ejemplos de comandos útiles para la gestión de proyectos
 
 # Frameworks HIBERNATE
-Hibernate es una de las implementaciones más populares de mapeo relacional de objetos (ORM). En términos sencillos, mapea las relaciones entre objetos de software y registros de la base de datos.
 
-    - **Fundamentos de Hibernate**
+**Hibernate**: es una de las implementaciones más populares de mapeo relacional de objetos (ORM). En términos sencillos, mapea las relaciones entre objetos de software y registros de la base de datos.
+
+    - Fundamentos de Hibernate
         - Introducción a los conceptos básicos y la arquitectura de Hibernate
-    - **Configuración de Hibernate**
+    - Configuración de Hibernate
         - Cómo configurar Hibernate en diferentes entornos de desarrollo
-    - **Mapeo de entidades**
+    - Mapeo de entidades
         - Uso de anotaciones y XML para mapear clases Java a tablas de base de datos
         - Discusión sobre las ventajas y desventajas de ambos métodos de mapeo
-    - **Sesiones y transacciones**
+    - Sesiones y transacciones
         - Manejo de la apertura y cierre de sesiones
         - Gestión de transacciones y cómo asegurar la integridad de los datos
