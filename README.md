@@ -114,7 +114,7 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
 
 # Base de datos Relacionales
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://i.ibb.co/L07y83F/Mysql-Oracle.png" alt="Mysql-Oracle">
+<img style="display: block; margin-left: auto; margin-right: 50%; width: 75%;" src="https://i.ibb.co/L07y83F/Mysql-Oracle.png" alt="Mysql-Oracle">
 
 
     Introducción a Bases de Datos Relacionales
