@@ -1,5 +1,3 @@
 # Certificado_Java
 
-<img title="a title" alt="Alt text" src="https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/05/Difference-Between-List.of-and-Arrays.asList.png">
-
-!(https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/05/Difference-Between-List.of-and-Arrays.asList.png "Certificado JAVA")
+<img title="Certificado JAVA" alt="Certificado JAVA" src="https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/05/Difference-Between-List.of-and-Arrays.asList.png">
