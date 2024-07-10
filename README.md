@@ -11,9 +11,8 @@
     - Docente: José Luis Llorente
     
     
-# Conocimientos de JAVA
+# JAVA
 
-- **JAVA**
     - Fundamentos de JAVA
         - Sintaxis básica
         - Tipos de datos
