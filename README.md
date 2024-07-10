@@ -5,12 +5,11 @@
 <img style="display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/05/Difference-Between-List.of-and-Arrays.asList.png">
 </div>
 
-## **Especificaciones de la Certificacion**:
+# **Especificaciones de la Certificacion**:
 
-    - Certificacion tipo: Grado 3
-    - Horas: 710 H + 80 de Practicas
-    - Docente: José Luis Llorente
-    
+### - Certificacion tipo: Grado 3
+### - Horas: 710 H + 80 de Practicas
+### - Docente: José Luis Llorente
     
 # JAVA
 
@@ -84,7 +83,7 @@ Incluye varios módulos, como Spring Data JPA, Spring Data MongoDB, Spring Data 
         - Definición y propósito de MAVEN en la gestión de proyectos
         - Historia y evolución de MAVEN
     - POM.xml
-        - **Gestión de dependencias**
+        - Gestión de dependencias
             - Cómo añadir y gestionar dependencias en un proyecto MAVEN
             - Ejemplos de dependencias comunes y su configuración
         - Plugins de MAVEN
